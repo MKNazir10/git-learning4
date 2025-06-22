@@ -8,3 +8,6 @@ i am the line added from github with branch master # this line considered as com
 
 
 # i am empty comment 
+
+
+$ this line is for chech i can push without mention origin and  branch name
