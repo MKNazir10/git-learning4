@@ -1,18 +1,1 @@
-hello maame 
-
-my name is test4.txt
-
-i am from git-learning4 folder
-
-i am the line added from github with branch master # this line considered as comment right now
-
-
-# i am empty comment 
-
-
-$ this line is for chech i can push without mention origin and  branch name
-
-asfdasfd
-
-
-hello boyy
+this place is for nazir 
